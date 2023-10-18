@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b61eb790eea7efee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ffa8579ecf59946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f9827bdb68fa1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bcd0bdd7179e730",
+    "type": "split",
+    "children": [
+      {
+        "id": "59ea2a2ca58b8725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19fb98d0696cd949",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a987f6efa8ea45d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4711027c5ce88c2a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4b8d4760a489586",
+    "type": "split",
+    "children": [
+      {
+        "id": "131ee754ac857c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adca9c745db52e75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3f57510df53e9eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3aa4558edc1bb66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "558309bf4b994e8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "19fb98d0696cd949",
+  "lastOpenFiles": [
+    "12. Appendix",
+    "11. What's next",
+    "10. Developing an App with Backbone",
+    "9. Testing Backbone Applications",
+    "8. Modularizing Backbone Applications",
+    "7. Routers",
+    "6. Events",
+    "5. Views",
+    "4. Collections",
+    "3. Models",
+    "2. Getting Started",
+    "Index.md"
+  ]
+}
