@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/2. Models/2 - Creando modelos.md",
+                "file": "Content/2. Models/4 - Buenas prácticas - Método set con funciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/2. Models/2 - Creando modelos.md",
+                "file": "Content/2. Models/4 - Buenas prácticas - Método set con funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/2. Models/2 - Creando modelos.md",
+                "file": "Content/2. Models/4 - Buenas prácticas - Método set con funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/2. Models/2 - Creando modelos.md"
+                "file": "Content/2. Models/4 - Buenas prácticas - Método set con funciones.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "22f9827bdb68fa1f",
   "lastOpenFiles": [
+    "Content/2. Models/3 - Método set para trabajar con atributos.md",
+    "Content/2. Models/4 - Buenas prácticas - Método set con funciones.md",
+    "Projects/Ejercicio 2 - Actualizar un modelo/main.js",
+    "Projects/Ejercicio 2 - Actualizar un modelo/index.html",
+    "Projects/Ejercicio 2 - Actualizar un modelo",
+    "Content/2. Models/2 - Creando modelos.md",
     "Content/Projects/Ejercicio 1 - Crear un modelo/main.js",
     "Content/Projects/Ejercicio 1 - Crear un modelo/index.html",
     "Content/Projects/Ejercicio 1 - Crear un modelo",
@@ -155,18 +161,13 @@
     "Content/Projects/MODULO LEARNING/index.html",
     "Content/Projects/MODULO LEARNING",
     "Content/Projects",
-    "Content/New folder",
     "Content/2. Models/1 - Introducción a los modelos.md",
-    "Content/2. Models/2 - Creando modelos.md",
     "Content/1. Introduction/4 - MVVM.md",
     "Content/1. Introduction/2 - Conceptos clave de Backbone.js.md",
     "Content/1. Introduction/1 - Qué es Backbone.js.md",
     "Content/1. Introduction/3 - Similitud de Backbone.js con el MVC.md",
     "assets/Backbone.js Logo.png",
     "assets/Pasted image 20231019120702.png",
-    "Content/1. Introduction/Sin título",
-    "Index.md",
-    "Content",
-    "assets"
+    "Index.md"
   ]
 }
